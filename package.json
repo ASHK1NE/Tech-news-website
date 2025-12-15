@@ -2,7 +2,7 @@
   "name": "tech-news-hub",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://[USERNAME].github.io/tech-news-hub",
+  "homepage": "https://[ashk1ne].github.io/tech-news-hub",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
