@@ -6,12 +6,12 @@ import { getStorage } from 'firebase/storage';
 // Firebase configuration
 // این اطلاعات رو باید از Firebase Console بگیری
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyDsAq8CahCEztGh9ipnFnlvs5_LBIp72TI",
+  authDomain: "tech-news-hub-v1.firebaseapp.com",
+  projectId: "tech-news-hub-v1",
+  storageBucket: "tech-news-hub-v1.firebasestorage.app",
+  messagingSenderId: "954198073430",
+  appId: "1:954198073430:web:4e13622b9b64fa7457dbf7"
 };
 
 // Initialize Firebase
